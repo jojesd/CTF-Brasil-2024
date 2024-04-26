@@ -5,7 +5,7 @@ Obrigado por considerar contribuir para o CTF Brasil 2024! Este guia foi criado 
 ## Antes de Começar
 Antes de começar a contribuir, é importante entender a estrutura e o propósito do repositório CTF Brasil 2024. Dê uma olhada nos arquivos de documentação e nas informações sobre as competições já adicionadas. Isso ajudará você a ter uma ideia do que já foi feito e do que ainda precisa ser incluído.
 
-## Como Contribuir?
+## Formas de Contribuição
 
 > [!NOTE]
 > Para submeter alterações no repositório será necessário criar commits e pull requests. Se é sua primeira contribuição com um repositório open source, [clique aqui](#primeira-contribuição).
@@ -34,7 +34,6 @@ O CTF Brasil 2024 está em constante evolução. Não se prenda apenas a este gu
 Contribuições adicionais são sempre bem-vindas e podem ajudar a tornar o repositório mais eficiente e útil para a comunidade CTF brasileira.
 
 ## Primeira Contribuição
-
 ### Criando uma issue
 Uma issue no contexto do GitHub é uma forma de acompanhar, discutir e resolver problemas, ideias de novos recursos ou qualquer outra tarefa relacionada a um projeto. Ela é essencialmente um registro público de uma discussão específica ou de uma tarefa a ser realizada.
 
