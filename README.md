@@ -1,5 +1,10 @@
-# CTF-Brasil-2024   ![alt text](./assets/CTF_Brasil_1.png "CTF Brasil")
+<h1 align="center">
+    <picture>
+        <img width="350" src="./assets/CTF_Brasil_1.png" alt="CTF Brasil">
+    </picture>
+</h1>
 
+# CTF-Brasil-2024   
 Bem-vindo ao repositório CTF Brasil 2024! Este repositório foi criado com o objetivo de centralizar informações sobre competições de Capture The Flag (CTF) no Brasil, fornecendo uma plataforma para que a comunidade se mantenha atualizada sobre as próximas competições, compartilhe recursos e desenvolva habilidades na área de segurança da informação.
 
 ## Sobre
