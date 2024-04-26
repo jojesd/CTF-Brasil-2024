@@ -62,8 +62,8 @@ Pull request (PR) é uma proposta de mudança em um projeto do GitHub. O contrib
     ```
     git clone https://github.com/seu-usuario/CTF-Brasil-2024.git
     ```
-    > [!IMPORTANT]
-    > Não se esqueça de trocar "seu-usuario" pelo seu username no github.
+> [!IMPORTANT]
+> Não se esqueça de trocar "seu-usuario" pelo seu username no github.
 5. Crie uma nova branch usando o comando:
     ```
     git checkout -b minha-contribuicao
@@ -75,8 +75,8 @@ Pull request (PR) é uma proposta de mudança em um projeto do GitHub. O contrib
     git commit -m "Adicionando [descrição da sua contribuição]"
     ```
     
-    > [!TIP]
-    > É possível visualizar as modificações a serem comittadas utilizando ```git status```.
+> [!TIP]
+> É possível visualizar as modificações a serem comittadas utilizando ```git status```.
 
 8. Envie suas alterações para seu fork do repositório
     ```
