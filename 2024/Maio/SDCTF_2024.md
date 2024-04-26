@@ -1,7 +1,7 @@
 # SDCTF 2024 (San Diego CTF)
 * <b>Quando? </b> 10 de maio de 2024;
 * <b>Horário?</b> 5pm (PDT) - 21:00 horário de brasília;
-* <b>Onde?</b> On-line;
+* <b>Onde?</b> Online;
 * <b>Modalidade?</b> Jeopardy-style;
 * <b>Premiação?</b> 1° lugar: $512.
  Observação: Disponível apenas para alunos da UCSD;
