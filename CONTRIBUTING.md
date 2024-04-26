@@ -48,10 +48,12 @@ Uma issue no contexto do GitHub é uma forma de acompanhar, discutir e resolver 
 > [!IMPORTANT]
 > Não se esqueça de checar se já não há uma issue criada sobre a sua solicitação para que não haja duplicações.
 
-### Alterações no repositório
+### Criando um pull request
 
 > [!IMPORTANT]
 > Para realizar alterações no repositório será necessário ter o [Git]() instalado na sua máquina.
+
+Pull request (PR) é uma proposta de mudança em um projeto do GitHub. O contribuidor cria uma cópia do projeto (fork), faz seus commits (alterações) em um novo branch (ramificação) e, em seguida, solicita que suas mudanças sejam revisadas e mescladas na versão principal do projeto. Após revisão, as alterações podem ser aceitas e mescladas pelo mantenedor do projeto.
 
 1. Faça login na sua conta do GitHub, se ainda não estiver conectado;
 2. Acesse o [repositório](https://github.com/jojesd/CTF-Brasil-2024) no GitHub;
@@ -72,8 +74,10 @@ Uma issue no contexto do GitHub é uma forma de acompanhar, discutir e resolver 
     git add .
     git commit -m "Adicionando [descrição da sua contribuição]"
     ```
+    
     > [!TIP]
     > É possível visualizar as modificações a serem comittadas utilizando ```git status```.
+
 8. Envie suas alterações para seu fork do repositório
     ```
     git push origin minha-contribuicao
