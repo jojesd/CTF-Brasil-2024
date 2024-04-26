@@ -1,7 +1,7 @@
 # SDCTF 2024 (San Diego CTF)
-* <b>Quando? </b> 10 de maio de  2024;
+* <b>Quando? </b> 10 de maio de 2024;
 * <b>Horário?</b> 5pm (PDT) - 21:00 horário de brasília;
-* <b>Onde?</b> On-line;
+* <b>Onde?</b> Online;
 * <b>Modalidade?</b> Jeopardy-style;
 * <b>Premiação?</b> 1° lugar: $512.
  Observação: Disponível apenas para alunos da UCSD;
@@ -29,4 +29,9 @@ O evento é organizado anualmente pela ACM Cyber, a organização chefe de cyber
 * 4° ao 8° lugar: $64;
 * $300 extra para challenge writeups. Então mesmo que não ganhe, você ainda é elegível para essa premiação.
 
+## Histórico de Versões
 
+|    Data    | Versão |              Descrição              |                      Autor(es)                      |
+| :--------: | :----: | :---------------------------------: | :-------------------------------------------------: |
+| 22/04/2024 | `0.1`  | Criação e Estruturação do documento | [Leandro Almeida](https://github.com/LeanArs) |
+| 26/04/2024 | `0.2`  | Histórico de versão adicionado | [Leandro Almeida](https://github.com/LeanArs) |

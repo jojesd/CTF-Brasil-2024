@@ -5,7 +5,7 @@
 * <b>Premiação?</b> Ainda não divulgado;
 * <b>URL:</b> https://securitybsides.com.br/2024/ctf/
 > [!TIP]
-> Acontecerá um <b>esquenta</b> on-line do dia 1 a 10 de maio com objetivo de incentivar novatos.
+> Acontecerá um <b>esquenta</b> online do dia 1 a 10 de maio com objetivo de incentivar novatos.
 
 ## O que é BsidesSP?
 A Conferência Security BSides São Paulo (BSidesSP) é um evento gratuito organizado pela comunidade de segurança da informação.
@@ -14,7 +14,7 @@ Seu principal objetivo é fomentar a inovação, a discussão e a troca de conhe
 
 ## Detalhes Esquenta CTF
 * Participação individual;
-* On-line;
+* Online;
 * Em caso de empate de pontuação, vence quem atingir primeiro a pontuação mais alta;
 * Live ao final do esquenta para apresentar os vencedores;
 * Premiação durante a BSides (18/05/2024).
@@ -37,4 +37,9 @@ Serão premiados:
 
 Os prêmios serão anunciados em breve.
 
+## Histórico de Versões
 
+|    Data    | Versão |              Descrição              |                      Autor(es)                      |
+| :--------: | :----: | :---------------------------------: | :-------------------------------------------------: |
+| 25/04/2024 | `0.1`  | Criação e Estruturação do documento | [Leandro Almeida](https://github.com/LeanArs) |
+| 26/04/2024 | `0.2`  | Histórico de versão adicionado | [Leandro Almeida](https://github.com/LeanArs) |
