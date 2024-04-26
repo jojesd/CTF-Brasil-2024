@@ -37,4 +37,9 @@ Serão premiados:
 
 Os prêmios serão anunciados em breve.
 
+## Histórico de Versões
 
+|    Data    | Versão |              Descrição              |                      Autor(es)                      |
+| :--------: | :----: | :---------------------------------: | :-------------------------------------------------: |
+| 25/04/2024 | `0.1`  | Criação e Estruturação do documento | [Leandro Almeida](https://github.com/LeanArs) |
+| 26/04/2024 | `0.2`  | Histórico de versão adicionado | [Leandro Almeida](https://github.com/LeanArs) |
